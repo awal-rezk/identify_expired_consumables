@@ -1,4 +1,4 @@
-/* stringParsing.c is a C source file used to take names of consumables along with the months and years of their expiration/sell by dates and adds those entities to several arrays of C strings.
+/* stringParsing.c is a C source file used to take names of consumables along with the months and years of their expiration/sell by dates and add those entities to several arrays of C strings.
 This C source file also takes the current month and year and adds them to an array of C strings.*/
 
 // Used for NULL

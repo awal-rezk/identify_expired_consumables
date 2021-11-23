@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1637652822 source:c:\users\owner\documents\expiredconsumables\expiredconsumables.c
+1637654018 source:c:\users\owner\documents\expiredconsumables\expiredconsumables.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 	"stringParsing.h"
-	"dictionaryOperation.h"
+	"consumableArrayOperation.h"
 
 1637652482 c:\users\owner\documents\expiredconsumables\stringparsing.h
 
@@ -16,4 +16,8 @@
 1637652502 c:\users\owner\documents\expiredconsumables\dictionaryoperation.h
 
 1637652758 source:c:\users\owner\documents\expiredconsumables\dictionaryoperation.c
+
+1637653941 source:c:\users\owner\documents\expiredconsumables\consumablearrayoperation.c
+
+1637653918 c:\users\owner\documents\expiredconsumables\consumablearrayoperation.h
 
