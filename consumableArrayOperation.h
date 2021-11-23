@@ -1,8 +1,8 @@
-/* dictionaryOperation.h is the header file for dictionaryOperation.c */
+/* consumableArrayOperation.h is the header file for consumableArrayOperation.c */
 
 /* Global variables */
 
-// Each entry in the consumable "dictionary" will take this form
+// Each entry in the consumable array will take this form
 typedef struct consumableArrayEntry{
     int month;
     int year;

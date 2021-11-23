@@ -5,7 +5,7 @@
 #include <stdbool.h>
 
 #include "stringParsing.h"
-#include "dictionaryOperation.h"
+#include "consumableArrayOperation.h"
 
 // NUM_TIME_PERIODS set to 2 because each expiration/sell by date only has two entities: month and year
 #define NUM_TIME_PERIODS 2

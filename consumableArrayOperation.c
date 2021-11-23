@@ -1,8 +1,8 @@
-/* dictionaryOperation.c is a C source file used to add names of consumables along with their expiration/sell by dates to an array of structures.
+/* consumableArrayOperation.c is a C source file used to add names of consumables along with their expiration/sell by dates to an array of structures.
 Each structure contains the name of a consumable along with the month and year that it expires or sells by.*/
 
 /* Global variables */
-// Each entry in the consumable "dictionary" will take this form
+// Each entry in the consumable array will take this form
 typedef struct consumableArrayEntry{
     int month;
     int year;

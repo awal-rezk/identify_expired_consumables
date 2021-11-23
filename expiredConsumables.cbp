@@ -31,10 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="dictionaryOperation.c">
+		<Unit filename="consumableArrayOperation.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="dictionaryOperation.h" />
+		<Unit filename="consumableArrayOperation.h" />
 		<Unit filename="expiredConsumables.c">
 			<Option compilerVar="CC" />
 		</Unit>
